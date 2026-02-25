@@ -72,4 +72,4 @@ Continued use of the Bot after changes are made constitutes acceptance of the up
 For questions or data removal requests, please contact the Bot developer via:
 
 * jorgidesigns (Discord)
-* https://discord.com/invite/Rz8hezZFSC (Official Discord Server)
+* Official server: [https://discord.com/invite/Rz8hezZFSC](https://discord.com/invite/Rz8hezZFSC)
