@@ -1,4 +1,4 @@
-**⚖️ Terms of Service**
+## ⚖️ Terms of Service
 
 These Terms of Service (“Terms”) govern your use of the Discord bot “Crazy Mobile” (“the Bot”). By using the Bot, you agree to these Terms.
 
