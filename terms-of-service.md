@@ -48,7 +48,17 @@ The Bot does not sell, share, or distribute your data outside the Bot.
 
 ---
 
-### 6. Limitation of Liability
+### 6. Intellectual Property & Disclaimer
+
+Crazy Mobile is an independent fan-made project and is not affiliated with, endorsed by, sponsored by, or associated with EA SPORTS, FC Mobile, Electronic Arts, or any of their affiliates.
+
+Any coins, gems, player cards, rewards, currencies, or other virtual items obtained through the Bot exist solely within Crazy Mobile and have no value, functionality, or connection to FC Mobile. Items earned in the Bot cannot be transferred to, redeemed in, or used within FC Mobile or any EA product.
+
+All trademarks, logos, player names, player images, game assets, and other intellectual property referenced by the Bot remain the property of their respective owners. Their use within the Bot is intended solely for identification, informational, and fan-project purposes.
+
+---
+
+### 7. Limitation of Liability
 
 The developer is not liable for:
 
@@ -58,15 +68,15 @@ The developer is not liable for:
 
 ---
 
-### 7. Modifications to Terms
+### 8. Modifications to Terms
 
 The Bot developer may update these Terms at any time. Continued use of the Bot after changes constitutes acceptance of the updated Terms.
 
 ---
 
-### 8. Contact
+### 9. Contact
 
 For questions about these Terms, please contact the Bot developer via:
 
 * Discord: jorgidesigns
-* Official server: [https://discord.com/invite/Rz8hezZFSC](https://discord.com/invite/Rz8hezZFSC)
+* Official server: https://discord.com/invite/Rz8hezZFSC
